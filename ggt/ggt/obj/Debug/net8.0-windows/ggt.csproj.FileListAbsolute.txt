@@ -1,0 +1,16 @@
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\bin\Debug\net8.0-windows\ggt.exe
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\bin\Debug\net8.0-windows\ggt.deps.json
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\bin\Debug\net8.0-windows\ggt.runtimeconfig.json
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\bin\Debug\net8.0-windows\ggt.dll
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\bin\Debug\net8.0-windows\ggt.pdb
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.View.resources
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.csproj.GenerateResource.cache
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.AssemblyInfoInputs.cache
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.AssemblyInfo.cs
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.csproj.CoreCompileInputs.cache
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.dll
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\refint\ggt.dll
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.pdb
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ggt.genruntimeconfig.cache
+D:\Schule\SOFT\GGT_DoyunKim\ggt\ggt\obj\Debug\net8.0-windows\ref\ggt.dll
